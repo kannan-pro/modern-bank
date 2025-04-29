@@ -16,7 +16,7 @@ const Hero = () => {
 
                 <div className='sm:py-9 py-6 flex sm:flex-row flex-col max-w-[700px]'>
                     <div>
-                        <h1 className='text-6xl leading-20 lg:text-[55px] xl:text-7xl lg:leading-20  xl:leading-24 font-medium'>
+                        <h1 className='text-[55px] xl:text-7xl lg:text-[55px] leading-20   lg:leading-20  xl:leading-24 font-medium'>
                             The Next <span className='text-gradient font-medium'>Generation</span>
                         </h1>
                     </div>

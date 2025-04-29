@@ -12,7 +12,7 @@ const Card = () => {
         </div>
 
         <div className='max-w-[480px] flex-1 '>
-            <img src={card} alt=""  className='w-[100%] h-[430px] xl:mt-0 lg:mt-0 md:mt-16 mt-16 '/>
+            <img src={card} alt="bill"  className='w-[100%] h-[300px] sm:h-[430px] xl:mt-0 lg:mt-0 md:mt-16 mt-16 '/>
         </div>
     </section>
   )

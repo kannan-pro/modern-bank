@@ -22,35 +22,35 @@ const Features = () => {
 
                 <div className='flex justify-between items-center  '>
 
-                    <div className='w-[100px] h-[60px] rounded-[50%] bg-gradient-to-b from-black to-gray-900   p-1 my-10 flex justify-center items-center shadow-[0_4px_20px_rgba(0,255,255,0.6)]'>
-                        <img src={star} alt="" className='w-[45px] h-[30px] object-contain drop-shadow-2xl'  />
+                    <div className='w-[65px] h-[35px] sm:w-[100px] sm:h-[60px] rounded-[50%] bg-gradient-to-b from-black to-gray-900   p-1 my-10 flex justify-center items-center shadow-[0_4px_20px_rgba(0,255,255,0.6)]'>
+                        <img src={star} alt="" className='w-[40px] h-[20px]  sm:w-[45px] sm:h-[30px] object-contain drop-shadow-2xl'  />
                     </div>
 
                     <div className='ml-5'>
-                    <h2 className='text-[18px] font-medium mb-3'>Rewards</h2>
+                    <h2 className='text-[17px] sm:text-[18px] font-medium mb-3'>Rewards</h2>
                     <p className='text-gray-400 sm:mt-0 mt-[-10px]'>The best credit cards offer some tantalizing combinations of promotions and prizes.</p>
                     </div>
                     
                 </div>
 
                 <div className='flex justify-between items-center  bg-black-gradient p-2 rounded-3xl '>
-                <div className='w-[100px] h-[60px] rounded-[50%] bg-gradient-to-b from-black to-gray-900   p-1 my-10 flex justify-center items-center shadow-[0_4px_20px_rgba(0,255,255,0.6)]'>
-                        <img src={shield} alt="" className='w-[45px] h-[30px] object-contain drop-shadow-2xl' />
+                <div className='w-[70px] h-[35px] sm:w-[100px] sm:h-[60px] rounded-[50%] bg-gradient-to-b from-black to-gray-900   p-1 my-10 flex justify-center items-center shadow-[0_4px_20px_rgba(0,255,255,0.6)]'>
+                        <img src={shield} alt="" className='w-[40px] h-[20px]  sm:w-[45px] sm:h-[30px] object-contain drop-shadow-2xl' />
                     </div> 
 
                     <div className='ml-5'>
-                    <h2 className='text-[18px] font-medium mb-3'>100% Secured</h2>
+                    <h2 className='text-[17px] sm:text-[18px] font-medium mb-3'>100% Secured</h2>
                     <p className='text-gray-400 sm:mt-0 mt-[-10px]'>TheWe take proactive steps make sure your information and transactions are secure.</p>
                     </div>
                 </div>
 
                 <div className='flex justify-between items-center '>
-                <div className='w-[100px] h-[60px] rounded-[50%] bg-gradient-to-b from-black to-gray-900   p-1 my-10 flex justify-center items-center shadow-[0_4px_20px_rgba(0,255,255,0.6)]'>
-                        <img src={send} alt="" className='w-[40px] h-[30px] object-contain drop-shadow-2xl' />
+                <div className='w-[65px] h-[35px] sm:w-[100px] sm:h-[60px] rounded-[50%] bg-gradient-to-b from-black to-gray-900   p-1 my-10 flex justify-center items-center shadow-[0_4px_20px_rgba(0,255,255,0.6)]'>
+                        <img src={send} alt="" className='w-[40px] h-[20px]  sm:w-[45px] sm:h-[30px] object-contain drop-shadow-2xl' />
                     </div>
                     <div className='ml-5'>
 
-                    <h2 className='text-[18px] font-medium mb-3'>Balance Transfer</h2>
+                    <h2 className='text-[17px] sm:text-[18px] font-medium mb-3'>Balance Transfer</h2>
                     <p className='text-gray-400 sm:mt-0 mt-[-10px]'>A balance transfer credit card can save you a lot of money in interest charges.</p>
                     </div>
                 </div>
